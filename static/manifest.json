@@ -1,0 +1,16 @@
+{
+  "name": "mwelwa.tk",
+  "short_name": "mwelwa.tk",
+  "description":"Full-end developer, React, Svelte, Nodejs. GraphQL enthusiast.",
+  "start_url":"/",
+  "theme_color":"#ac043c",
+  "background_color":"#fff",
+  "orientation":"portrait",
+  "display":"standalone",
+  "icons":[
+    {
+        "src":"/mwelwa.png",
+        "sizes":"380x509"
+    }
+  ]
+}

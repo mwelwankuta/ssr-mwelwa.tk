@@ -1,0 +1,10 @@
+/src/routes/api/request.rest
+/node_modules
+/build
+/dist
+/package
+/.env
+/.svelte-kit
+
+.DS_Store
+yarn-error.log
